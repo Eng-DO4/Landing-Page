@@ -12,4 +12,4 @@
 - Scrolling using Btn
 
 ## How to use?
-Easily, open index.html file in your browser then you can navigate to any section by clicking NavBar and you can scroll to top of the document using top Btn.
+Easily, click the [link](https://eng-do4.github.io/Landing-Page/)
